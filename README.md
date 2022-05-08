@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Felix Musau</h1>
-<h3 align="center">A software engineer currently in his final year. I love android development and it is what am currently focusing on. Am also a student of the ALX program cohort 5</h3>
+<h3 align="center">A CS and math major. Currently in my final year. I love android development and it is what am focusing on at the moment.</h3>
+
+- 🔭 I’m currently working on **an android music player**
 
 - 🌱 I’m currently learning **material design for building beautiful user interfaces**
 
-- 👯 I’m looking to collaborate on **an android music player**
-
-- 🤝 I’m looking for help with **android architecture**
+- 👯 I’m looking to collaborate on **open source android projects**
 
 - 💬 Ask me about **java, OOP**
 
 - 📫 How to reach me **mwatufelix1@gmail.com**
+
+- ⚡ Fun fact **The sun is more than a billion kilometers away from us,and actually really big, like 109 times wider than earth.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felix50-dev&show_icons=true&locale=en&layout=compact" alt="felix50-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felix50-dev&show_icons=true&locale=en" alt="felix50-dev" /></p>
+
