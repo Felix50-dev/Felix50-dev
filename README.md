@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Musau</h1>
-<h3 align="center">A CS and math major. Currently in my final year. I love android development and it is what am focusing on at the moment.</h3>
+<h3 align="center">A CS and math major. I love android development and it is what am focusing on at the moment.</h3>
 
 - 🔭 I’m currently working on **an android music player**
 
