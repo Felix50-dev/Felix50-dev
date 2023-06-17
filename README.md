@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source android projects**
 
-- 💬 Ask me about **java, OOP**, kotlin, Jetpack Compose, Jetpack Libraries**
+- 💬 Ask me about **java, OOP**, kotlin, Jetpack Compose, Jetpack Libraries **
 
 - 📫 How to reach me **mwatufelix1@gmail.com**
 
